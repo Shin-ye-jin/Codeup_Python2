@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10265bbb-235f-4244-bc38-b6193fdcecd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1100번대/1107-09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="10265bbb-235f-4244-bc38-b6193fdcecd3" name="Changes" comment="// 1day">
+      <change afterPath="$PROJECT_DIR$/1100번대/112n.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1107-09.executor": "Run",
+    "Python.112n.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "vcs.Git"
@@ -70,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1733554045124</updated>
     </task>
+    <task id="LOCAL-00001" summary="// 1day">
+      <option name="closed" value="true" />
+      <created>1733556788077</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733556788077</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="// 1day" />
+    <option name="LAST_COMMIT_MESSAGE" value="// 1day" />
   </component>
 </project>
