@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10265bbb-235f-4244-bc38-b6193fdcecd3" name="Changes" comment="// 1day">
-      <change afterPath="$PROJECT_DIR$/1100번대/112n.py" afterDir="false" />
+    <list default="true" id="10265bbb-235f-4244-bc38-b6193fdcecd3" name="Changes" comment="// 2-3day">
+      <change afterPath="$PROJECT_DIR$/1200번대/1287-89.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Shin-ye-jin"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Shin-ye-jin&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Shin-ye-jin/Codeup_Python2.git",
-    "accountId": "4fb05f3f-e08d-4b74-a8a3-a142b72e2da3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Shin-ye-jin/Codeup_Python2.git&quot;,
+    &quot;accountId&quot;: &quot;4fb05f3f-e08d-4b74-a8a3-a142b72e2da3&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -49,6 +49,7 @@
   "keyToString": {
     "Python.1107-09.executor": "Run",
     "Python.112n.executor": "Run",
+    "Python.1287-89.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "vcs.Git"
@@ -78,11 +79,20 @@
       <option name="project" value="LOCAL" />
       <updated>1733556788077</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="// 2-3day">
+      <option name="closed" value="true" />
+      <created>1733630749999</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733630749999</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="// 1day" />
-    <option name="LAST_COMMIT_MESSAGE" value="// 1day" />
+    <MESSAGE value="// 2-3day" />
+    <option name="LAST_COMMIT_MESSAGE" value="// 2-3day" />
   </component>
 </project>
