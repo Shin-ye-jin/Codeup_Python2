@@ -14,3 +14,12 @@
 # n,r=map(int,input().split())
 # result = f(n)/(f(n-r)*f(r))
 # print("%d" % result)
+
+# 1289 가장 큰 운동장
+re,max=0,0
+for i in range(3):
+    h,w=map(int,input().split())
+    re=h*w
+    if max < re:
+        max = re
+print(max)
