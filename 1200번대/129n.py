@@ -38,3 +38,8 @@
 #         min = a[i]
 #
 # print(max, min)
+
+# 1296 직사각형의 최대 넓이
+# n=int(input())
+# ln = n/4
+# print("%d" % (ln*ln))
