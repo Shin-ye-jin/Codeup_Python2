@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10265bbb-235f-4244-bc38-b6193fdcecd3" name="Changes" comment="// 5day">
+    <list default="true" id="10265bbb-235f-4244-bc38-b6193fdcecd3" name="Changes" comment="5day">
+      <change afterPath="$PROJECT_DIR$/1300번대/1359-60.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1200번대/129n.py" beforeDir="false" afterPath="$PROJECT_DIR$/1200번대/129n.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,17 +45,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1107-09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.112n.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1287-89.executor&quot;: &quot;Run&quot;,
-    &quot;Python.129n.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1107-09.executor": "Run",
+    "Python.112n.executor": "Run",
+    "Python.1287-89.executor": "Run",
+    "Python.129n.executor": "Run",
+    "Python.1359-60.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -112,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734158373856</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="5day">
+      <option name="closed" value="true" />
+      <created>1734245019640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734245019640</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +130,7 @@
     <MESSAGE value="// 3day" />
     <MESSAGE value="// 4day" />
     <MESSAGE value="// 5day" />
-    <option name="LAST_COMMIT_MESSAGE" value="// 5day" />
+    <MESSAGE value="5day" />
+    <option name="LAST_COMMIT_MESSAGE" value="5day" />
   </component>
 </project>
