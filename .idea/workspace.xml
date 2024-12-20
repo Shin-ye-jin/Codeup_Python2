@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10265bbb-235f-4244-bc38-b6193fdcecd3" name="Changes" comment="5day">
-      <change afterPath="$PROJECT_DIR$/1300번대/1359-60.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="10265bbb-235f-4244-bc38-b6193fdcecd3" name="Changes" comment="6day" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734245019640</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="6day">
+      <option name="closed" value="true" />
+      <created>1734350537266</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734350537266</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -131,6 +136,7 @@
     <MESSAGE value="// 4day" />
     <MESSAGE value="// 5day" />
     <MESSAGE value="5day" />
-    <option name="LAST_COMMIT_MESSAGE" value="5day" />
+    <MESSAGE value="6day" />
+    <option name="LAST_COMMIT_MESSAGE" value="6day" />
   </component>
 </project>
